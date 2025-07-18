@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Rachel Longjohn",
     "section": "",
-    "text": "I am a Statistics Ph.D. candidate at the University of California, Irvine (UCI) advised by Dr. Padhraic Smyth. I’m interested in the intersection of statistics and AI/ML and am passionate about improving how both are applied in practical, real-world settings. Some of my key areas of interest include AI/ML testing and evaluation, ethics and governance, and uncertainty quantification.\nDuring my PhD, my research has focused on applying statistical methodology in criminal justice applications and AI/ML evaluation and benchmarking. I also served as a data curator and librarian for the UCI Machine Learning Repository for much of my time at UCI.\nI received my Master’s degree in Statistics from UCI in 2021, and my Bachelor’s degree in Applied and Computational Mathematics, with a specialization in Computer Programming, from the University of Southern California in 2019."
+    "text": "I am a Statistics Ph.D. candidate at the University of California, Irvine (UCI) advised by Dr. Padhraic Smyth. I’m interested in the intersection of statistics and AI/ML and am passionate about improving how both are applied in practical, real-world settings. Some of my key areas of interest are AI/ML testing and evaluation, uncertainty quantification, model selection, and Bayesian statistics. During my PhD, I’ve also worked on statistical methodology for forensic science applications and served as a data curator and librarian for the UCI Machine Learning Repository.\nI received my Master’s degree in Statistics from UCI in 2021, and my Bachelor’s degree in Applied and Computational Mathematics, with a specialization in Computer Programming, from the University of Southern California in 2019."
   },
   {
     "objectID": "research.html",
@@ -14,18 +14,18 @@
     "text": "Benchmark data repositories for better benchmarking\nRachel Longjohn*, Markelle Kelly*, Sameer Singh, and Padhraic Smyth.\nNeurIPS (Datasets and Benchmarks), 2024.\n\nStatistical uncertainty quantification for aggregate task-performance metrics in ML benchmarks\nRachel Longjohn*, Giri Gopalan*, and Emily Casleton.\nNeurIPS Workshop on Statistical Frontiers in LLMs and Foundation Models, 2024."
   },
   {
-    "objectID": "research.html#aiml-evaluation-and-benchmarking",
-    "href": "research.html#aiml-evaluation-and-benchmarking",
+    "objectID": "research.html#aiml-testing-and-evaluation",
+    "href": "research.html#aiml-testing-and-evaluation",
     "title": "Research",
     "section": "",
     "text": "Benchmark data repositories for better benchmarking\nRachel Longjohn*, Markelle Kelly*, Sameer Singh, and Padhraic Smyth.\nNeurIPS (Datasets and Benchmarks), 2024.\n\nStatistical uncertainty quantification for aggregate task-performance metrics in ML benchmarks\nRachel Longjohn*, Giri Gopalan*, and Emily Casleton.\nNeurIPS Workshop on Statistical Frontiers in LLMs and Foundation Models, 2024."
   },
   {
-    "objectID": "research.html#statisticsml-methodology-in-criminal-justice-applications",
-    "href": "research.html#statisticsml-methodology-in-criminal-justice-applications",
+    "objectID": "research.html#statisticsml-methodology-in-forensic-science-applications",
+    "href": "research.html#statisticsml-methodology-in-forensic-science-applications",
     "title": "Research",
-    "section": "Statistics/ML Methodology in Criminal Justice Applications",
-    "text": "Statistics/ML Methodology in Criminal Justice Applications\n(Under review) Score-based Likelihood Ratios For Authorship Verification with Authorship Embeddings\nRachel Longjohn, Kai Nelson, and Padhraic Smyth.\n\nLikelihood ratios for changepoints in categorical count data with applications in digital forensics\nRachel Longjohn and Padhraic Smyth.\nJournal of Forensic Sciences, 2024.\n\nLikelihood ratios for categorical count data with applications in digital forensics\nRachel Longjohn, Padhraic Smyth, and Hal S. Stern.\nLaw, Probability, and Risk, 2022.\n\nTutorial on Likelihood Ratios with Applications in Digital Forensics\nRachel Longjohn and Padhraic Smyth.\nCenter for Statistics and Applications in Forensic Evidence (CSAFE) Summer Webinar Series, 2022."
+    "section": "Statistics/ML Methodology in Forensic Science Applications",
+    "text": "Statistics/ML Methodology in Forensic Science Applications\n(Under review) Score-based Likelihood Ratios For Authorship Verification with Authorship Embeddings\nRachel Longjohn, Kai Nelson, and Padhraic Smyth.\n\nLikelihood ratios for changepoints in categorical count data with applications in digital forensics\nRachel Longjohn and Padhraic Smyth.\nJournal of Forensic Sciences, 2024.\n\nLikelihood ratios for categorical count data with applications in digital forensics\nRachel Longjohn, Padhraic Smyth, and Hal S. Stern.\nLaw, Probability, and Risk, 2022.\n\nTutorial on Likelihood Ratios with Applications in Digital Forensics\nRachel Longjohn and Padhraic Smyth.\nCenter for Statistics and Applications in Forensic Evidence (CSAFE) Summer Webinar Series, 2022."
   },
   {
     "objectID": "projects.html",
